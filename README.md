@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+I am a 25 years old student living in Delft, where just finished my master in CS at the TU Delft. I have traveled the world, am fascinated with UI/UX and love TV-series. 
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mjwsteenbergen)
+
 
 <!--
 **mjwsteenbergen/mjwsteenbergen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
