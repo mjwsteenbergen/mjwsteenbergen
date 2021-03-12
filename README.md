@@ -1,5 +1,4 @@
-# Hi there 👋
-I am a 25 years old student living in Delft, where just finished my master in CS at the TU Delft. I have traveled the world, am fascinated with UI/UX and love TV-series. 
+I'm Martijn Steenbergen. I am a Software Engineer at BOL.com, helping you find what you need. I got my M.Sc. at the wonderful Technical University of Delft. I love automating anything and everything. I'm fascinated with design, how the world works and everything else
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mjwsteenbergen)
